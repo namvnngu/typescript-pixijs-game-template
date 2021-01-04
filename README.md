@@ -2,7 +2,7 @@
     <img src="logo.svg" />
 </p>
 
-# Typescript Template For Pure Canvas Game
+# Typescript Template with SCSS For Pure Canvas Game
 
 The Typescript template is bundled by Parcel.
 
@@ -11,7 +11,7 @@ The Typescript template is bundled by Parcel.
 1. Clone the template repository:
 
 ```bash
-    > git clone https://github.com/nnfunny/typescript-react-template.git
+    > git clone https://github.com/nnfunny/typescript-canvas-game-template.git
 ```
 
 2. Install dependencies:
@@ -38,5 +38,5 @@ The Typescript template is bundled by Parcel.
     > npm run build
 ```
 
-Please feel free to use this template and build your awesome projects ✨.
+Please feel free to use this template and build your awesome game projects ✨.
 
