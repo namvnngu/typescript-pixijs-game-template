@@ -1,3 +1,3 @@
-console.log("Typescript ⚡️ + SCSS 🎨 + Pure Canvas 💥 + Parcel 📦")
+console.log('Typescript ⚡️ + SCSS 🎨 + PixiJS 💥 + Parcel 📦');
 
-export {}
+export {};
